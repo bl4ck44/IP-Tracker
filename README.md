@@ -21,9 +21,9 @@ python3 tracker.py
 </p>
 
 <p align="center">
-<img src="Img/muestra2.png">
+<img src="Img/muestra2.png" width="510px">
 </p>
 
 <p align="center">
-<img src="Img/muestra3.png" width="530px">
+<img src="Img/muestra3.png" width="510px">
 </p>
