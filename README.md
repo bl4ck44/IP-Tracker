@@ -4,7 +4,7 @@
 <img src="Logotipo.png" width="500px" height="75px">
 </p>
 
-Herramienta avanzada de seguimiento y recopilacion de IP y número telefónico
+erramienta avanzada de seguimiento y recopilacion de IP y número telefónico
 
 ```
 git clone https://github.com/bl4ck44/IP-Tracker.git
