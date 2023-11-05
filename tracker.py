@@ -1,4 +1,4 @@
-import requests
+import request
 import os
 import phonenumbers
 from phonenumbers import geocoder
