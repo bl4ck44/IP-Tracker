@@ -1,7 +1,7 @@
 # IP-Tracker
 
 <p align="center">
-<img src="Logotipo.png" width="500px" height="75px">
+<img src="Logotipo.png" width="500px" height="75px"
 </p>
 
 Herramienta avanzada de seguimiento y recopilacion de IP y número telefónico
